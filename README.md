@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* This is the repository for Jiazhi Chen and Martin Zhang's CSE 330S group assignments for module 3.
+* This is the repository for Bobby Chen and Martin Zhang's story-telling website in PHP.
 
 ### How do I get set up? ###
 
@@ -28,5 +28,5 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Jiazhi Chen email: chen.jiazhi@wustl.edu cell: 3145564976
+* Bobby Chen email: chen.jiazhi@wustl.edu cell: 3145564976
 * Martin Zhang email: martinzhang@wustl.edu cell: 3146855464
